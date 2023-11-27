@@ -1,2 +1,2 @@
 # nlp-with-transformer
-Complete nlp- playgrpund ith-transformer
+Complete NLP playground using Transformer
